@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "lodash invoking external npm librarry creates package.json file that which tells us about which module does this app has dependencies and you can give this app to your friend with deleting the node module folder",
+  "main": "app.js",
+  "dependencies": {
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvskiren/NodeJS.git"
+  },
+  "author": "mvskiran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvskiren/NodeJS/issues"
+  },
+  "homepage": "https://github.com/mvskiren/NodeJS#readme"
+}
